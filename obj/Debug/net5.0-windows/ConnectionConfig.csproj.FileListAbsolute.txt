@@ -1,0 +1,38 @@
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.exe
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.deps.json
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.json
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.dev.json
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.dll
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ref\ConnectionConfig.dll
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.pdb
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.Form1.resources
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.Properties.Resources.resources
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.GenerateResource.cache
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.dll
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ref\ConnectionConfig.dll
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.pdb
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.genruntimeconfig.cache
+C:\Users\VIET ANH\Desktop\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.exe
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.deps.json
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.dll
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ref\ConnectionConfig.dll
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\bin\Debug\net5.0-windows\ConnectionConfig.pdb
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.Form1.resources
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.Properties.Resources.resources
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.GenerateResource.cache
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.dll
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ref\ConnectionConfig.dll
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.pdb
+D:\2.KZTECH\5.DuAn\10.Lotte\ToolDB\ConnectionConfig\obj\Debug\net5.0-windows\ConnectionConfig.genruntimeconfig.cache
